@@ -104,7 +104,7 @@
   <plugins>
         <plugin>
           <groupId>org.codehaus.sonar.plugins</groupId>
-          <artifactId>maven-report</artifactId>
+          <artifactId>maven-report1</artifactId>
           <version>0.1</version>
         </plugin>
       </plugins>
